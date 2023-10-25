@@ -1,0 +1,1 @@
+python main.py --cuda 0 --temp 0.3 --lambda1 1e-5 --lambda2 1e-4 --dropout 0 --eps_1 -0.05 --eps_2 -0.2 --eps_3 0.1 --alpha 0.316 
